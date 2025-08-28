@@ -1,2 +1,2 @@
-# NathanSloan.github.io
+# WebsiteResume
 Test Website
